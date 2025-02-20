@@ -1,4 +1,4 @@
-# Adventure Works Sales & Profit Margin Analysis Project 📊
+# Adventure Works Sales & Profit Margin Analysis Lab-Project 📊
 
 ## Project Overview 🎯
 
