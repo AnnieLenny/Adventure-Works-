@@ -13,13 +13,19 @@ In this project, I explored and analysed the **Adventure Works** dataset with th
 
 ## Step-by-Step Approach 📝
 
-### 1. **Data Import & Cleaning** 🧹
+### 1. **Data Import & Preparation** 🧹
 
+### 2. **Sum of Sales & Profit Margin by Month (2019)** 📅
+
+#### Result:
+
+- Clear visualization of sales trends and profitability across months of 2019.
 - First, import the Adventure Works dataset into **Power BI**.
 - Clean the data by removing any inconsistencies, handling missing values, and ensuring the columns are appropriately formatted for analysis.
+  
+![image](https://github.com/user-attachments/assets/84ec6a4f-b622-47a8-94ba-5555a45e1a8e)
 
 ### 2. **Sales & Profit Margin by Month** 📅
-
 - Calculate the **sum of sales** and **profit margin** for each month.
 - Visualize this data using a **line chart** to reveal trends over time.
 - Add a **legend** to differentiate between sales and profit margin.
@@ -71,7 +77,13 @@ Here’s a sample of the interactive **stacked column bar chart** showing **sale
 
 *Interactive chart showing sales across different countries and categories.*
 
----
+#### Result:
+
+- A clear picture of the **sales performance** relative to the set target, highlighting areas that need attention.
+
+![image](https://github.com/user-attachments/assets/32b1bb93-a844-46c1-b924-c691e9946f19)
+
+*Diagram comparing actual sales performance to target in 2019.*
 
 ### Conclusion 🔑
 
